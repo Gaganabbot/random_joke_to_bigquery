@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/                # Python cache dirs :contentReference[oaicite:0]{index=0}
+*.py[cod]                   # .pyc, .pyo, .pyd :contentReference[oaicite:1]{index=1}
+*$py.class                  # Jython bytecode :contentReference[oaicite:2]{index=2}
+
+# C extensions
+*.so                        # compiled extension modules :contentReference[oaicite:3]{index=3}
+
+# Distribution / packaging
+.Python                     # virtual environment marker :contentReference[oaicite:4]{index=4}
+build/                      # build output :contentReference[oaicite:5]{index=5}
+develop-eggs/               # setuptools :contentReference[oaicite:6]{index=6}
+dist/                       # distribution archives :contentReference[oaicite:7]{index=7}
+downloads/                  # legacy :contentReference[oaicite:8]{index=8}
+eggs/                       # setuptools :contentReference[oaicite:9]{index=9}
+.eggs/                      # setuptools :contentReference[oaicite:10]{index=10}
+lib/                        # python libs :contentReference[oaicite:11]{index=11}
+lib64/                      # python libs :contentReference[oaicite:12]{index=12}
+parts/                      # build parts :contentReference[oaicite:13]{index=13}
+sdist/                      # source distributions :contentReference[oaicite:14]{index=14}
+var/                        # variable data :contentReference[oaicite:15]{index=15}
+wheels/                     # wheel files :contentReference[oaicite:16]{index=16}
+share/python-wheels/        # wheel cache :contentReference[oaicite:17]{index=17}
+*.egg-info/                 # packaging metadata :contentReference[oaicite:18]{index=18}
+.installed.cfg              # old setuptools :contentReference[oaicite:19]{index=19}
+*.egg                       # egg archives :contentReference[oaicite:20]{index=20}
+MANIFEST                     # manifest file :contentReference[oaicite:21]{index=21}
+
+# Virtual environments
+env/                        # venv created by python –venv :contentReference[oaicite:22]{index=22}
+venv/                       # alternate name :contentReference[oaicite:23]{index=23}
+ENV/                        # uppercase variant :contentReference[oaicite:24]{index=24}
+
+# IDEs and editors
+.vscode/                    # Visual Studio Code :contentReference[oaicite:25]{index=25}
+.idea/                      # PyCharm/IntelliJ :contentReference[oaicite:26]{index=26}
+
+# Pyre type checker
+.pyre/                      # Pyre cache :contentReference[oaicite:27]{index=27}
+
+# mypy
+.mypy_cache/                # mypy cache :contentReference[oaicite:28]{index=28}
+.dmypy.json                 # mypy daemon :contentReference[oaicite:29]{index=29}
+
+# pytest
+.cache/                     # pytest cache :contentReference[oaicite:30]{index=30}
+
+# Jupyter Notebook
+.ipynb_checkpoints/         # notebook checkpoints :contentReference[oaicite:31]{index=31}
+
+# Logs and databases
+*.log                       # log files :contentReference[oaicite:32]{index=32}
+*.sqlite3                   # local sqlite databases :contentReference[oaicite:33]{index=33}
+
+# OS files
+.DS_Store                   # macOS Finder :contentReference[oaicite:34]{index=34}
+Thumbs.db                   # Windows Explorer :contentReference[oaicite:35]{index=35}
